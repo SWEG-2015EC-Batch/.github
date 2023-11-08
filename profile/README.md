@@ -50,6 +50,12 @@ Finally click on the "Commits Change" button at the bottom right corner of the p
 
 ![image](https://github.com/SWEG-2015EC-Batch/.github/assets/73167960/9277a633-1732-4944-884f-f232b25c1326)
 
+### Step 5: Confirm Folder Creation
+
+If you completed each of the above steps, you should now have a new folder in your Github repo. this will be evidence by the repot url in the main navigation area along with the newly-created folder name in the secondary navigation area, as shown in the image below:
+
+![image](https://github.com/SWEG-2015EC-Batch/.github/assets/73167960/4cde519d-ce2a-4ab0-8615-e9ee2dbfc05d)
+
 
 ## Congragulations!! 🥇🥇 
 ## You able to create a folder inside Git Hub repository. 
