@@ -27,13 +27,19 @@
 
 ### 📖 Chapter-3 Flow Controls
 <ul>
-   <li><a href="#">Exercise 1 - Salary Calculator </a></li>
-   <li><a href="#">Exercise 2 - Number Checker (Even/Odd and +ve/-Ve) </a></li>
-   <li><a href="#">Exercise 3 - BMI Calculator V2</a></li>
-   <li><a href="#">Exercise 4 - BMI Calculator V3</a></li>
-   <li><a href="#">Exercise 5 - Symbol Checker</a></li>
-   <li><a href="#">Exercise 6 - Basic Calculator </a></li>
+ <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.1 BMI calculator V2(a).cpp">BMI calculator V2(a) - using Nested if else if Stmts</a></li>
+ <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.1 BMI calculator V2(b).cpp">BMI calculator V2(b) - using else if stmts </a></li>
+ <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.2 BMI calculator V3(a).cpp">BMI calculator V3(a) - using for loop stmts</a></li>
+ <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.2 BMI calculator V3(b).cpp">BMI calculator V3(b) - using while loop stmts</a></li>
+ <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.3 salary calculator v2.cpp">Salary calculator v2 - using 1-one selection</a></li>
+ <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.4 salary calculator v3.cpp">Salary calculator v3 - using loop stmts</a></li>
+ <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.5 number checker v1(a).cpp">Number checker v1(a) - using if else if stmts</a></li>
+ <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.5 number checker v1(b).cpp">Number checker v1(b) - using nested if else stmts</a></li>
+ <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.6 number checker v2.cpp">Number checker 2 - using do .. while loop</a></li>
 </ul>
+
+
+
 
 <b>MCQ</b>
 <ul>
