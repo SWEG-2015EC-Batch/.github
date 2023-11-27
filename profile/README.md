@@ -16,7 +16,7 @@
 
 ### 📖 Chapter-2 Basics of Programming Constrcutor
 <ul>
-   <li><a href="../../FoP-I-Exercises-Solution/blob/main/Chapter-3 Basic Programming Constructors/1 BMI calculator V1.cpp">Exercise 1 - BMI Calculator V1</a></li>
+   <li><a href="SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3 Basic Programming Constructors/1 BMI calculator V1.cpp">Exercise 1 - BMI Calculator V1</a></li>
    <li><a href="#">Exercise 2</a></li>
    <li><a href="#">Exercise 3</a></li>
 </ul>
