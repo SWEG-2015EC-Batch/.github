@@ -17,8 +17,12 @@
 ### 📖 Chapter-2 Basics of Programming Constrcutor
 <ul>
    <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Basic%20Programming%20Constructors/1%20BMI%20calculator%20V1.cpp">Exercise 1 - BMI Calculator V1</a></li>
-   <li><a href="#">Exercise 2</a></li>
-   <li><a href="#">Exercise 3</a></li>
+   <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Basic%20Programming%20Constructors/2%20alphabet%20case%20convertor.cpp">Exercise 2 - Alphabet Case Convertor.</a></li>
+   <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Basic%20Programming%20Constructors/3%20miles%20calculator.cpp">Exercise 3 - Miles Calculator</a></li>
+  <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Basic%20Programming%20Constructors/3%20miles%20calculator.cpp">Exercise 4 - Exponent Caclutor.</a></li>
+  <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Basic%20Programming%20Constructors/5%20salary%20calculator%20v1.cpp">Exercise 5 - Salary Calculator v1</a></li>
+  <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Basic%20Programming%20Constructors/6%20file%20transfer%20time%20calculator.cpp">Exercise 6 - File Transfer Time Calculator </a></li>
+  <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Basic%20Programming%20Constructors/6%20temprature%20convertor.cpp">Exercise 7 - Temprature Convertor </a></li>
 </ul>
 
 ### 📖 Chapter-3 Flow Controls
