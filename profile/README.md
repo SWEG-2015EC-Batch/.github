@@ -35,6 +35,7 @@
  <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.4 salary calculator v3.cpp">Salary calculator v3 - using loop stmts</a></li>
  <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.5 number checker v1(a).cpp">Number checker v1(a) - using if else if stmts</a></li>
  <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.5 number checker v1(b).cpp">Number checker v1(b) - using nested if else stmts</a></li>
+ <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.5 number checker v1(c).cpp">Number checker v1(c) - using switch stmts</a></li>
  <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.6 number checker v2.cpp">Number checker 2 - using do .. while loop</a></li>
 </ul>
 
