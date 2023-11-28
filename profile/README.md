@@ -27,7 +27,7 @@
 </ul>
 
 ### 📖 Chapter-3 Flow Controls
-<ol>
+<ol style="list-style-type: none;">
   <li>Exercise 3.1
     <ul>
      <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.1 BMI calculator V2(a).cpp">BMI calculator V2(a) - using Nested if ... else if Stmts</a></li>
