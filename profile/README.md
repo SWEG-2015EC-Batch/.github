@@ -28,6 +28,8 @@
 
 ### 📖 Chapter-3 Flow Controls
 
+#### <a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.0%20summary%20of%20chapter.md">Summary of the Chapter </a>
+
 ##### Exercise 3.1
 
 <ul>
