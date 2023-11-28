@@ -2,7 +2,8 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h1><b> FoP I Practical Exercises and Summary Note</b></h1>
+  <h1><b> Fundamentals of Programming I </b></h1>
+  <h2><b> Practical Exercises and Summary Note</b></h2>
 </div>
 
 
