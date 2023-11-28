@@ -17,31 +17,40 @@
 
 ### 📖 Chapter-2 Basics of Programming Constrcutor
 <ul>
-   <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Basic%20Programming%20Constructors/1%20BMI%20calculator%20V1.cpp">Exercise 1 - BMI Calculator V1</a></li>
-   <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Basic%20Programming%20Constructors/2%20alphabet%20case%20convertor.cpp">Exercise 2 - Alphabet Case Convertor.</a></li>
-   <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Basic%20Programming%20Constructors/3%20miles%20calculator.cpp">Exercise 3 - Miles Calculator</a></li>
-  <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Basic%20Programming%20Constructors/3%20miles%20calculator.cpp">Exercise 4 - Exponent Caclutor.</a></li>
-  <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Basic%20Programming%20Constructors/5%20salary%20calculator%20v1.cpp">Exercise 5 - Salary Calculator v1</a></li>
-  <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Basic%20Programming%20Constructors/6%20file%20transfer%20time%20calculator.cpp">Exercise 6 - File Transfer Time Calculator </a></li>
-  <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Basic%20Programming%20Constructors/6%20temprature%20convertor.cpp">Exercise 7 - Temprature Convertor </a></li>
+   <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Basic%20Programming%20Constructors/1%20BMI%20calculator%20V1.cpp">Exercise 2.1 - BMI Calculator V1</a></li>
+   <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Basic%20Programming%20Constructors/2%20alphabet%20case%20convertor.cpp">Exercise 2.2 - Alphabet Case Convertor.</a></li>
+   <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Basic%20Programming%20Constructors/3%20miles%20calculator.cpp">Exercise 2.3 - Miles Calculator</a></li>
+  <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Basic%20Programming%20Constructors/3%20miles%20calculator.cpp">Exercise 2.4 - Exponent Caclutor.</a></li>
+  <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Basic%20Programming%20Constructors/5%20salary%20calculator%20v1.cpp">Exercise 2.5 - Salary Calculator v1</a></li>
+  <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Basic%20Programming%20Constructors/6%20file%20transfer%20time%20calculator.cpp">Exercise 2.6 - File Transfer Time Calculator </a></li>
+  <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Basic%20Programming%20Constructors/6%20temprature%20convertor.cpp">Exercise 2.7 - Temprature Convertor </a></li>
 </ul>
 
 ### 📖 Chapter-3 Flow Controls
-<ul>
- <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.1 BMI calculator V2(a).cpp">BMI calculator V2(a) - using Nested if else if Stmts</a></li>
- <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.1 BMI calculator V2(b).cpp">BMI calculator V2(b) - using else if stmts </a></li>
- <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.2 BMI calculator V3(a).cpp">BMI calculator V3(a) - using for loop stmts</a></li>
- <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.2 BMI calculator V3(b).cpp">BMI calculator V3(b) - using while loop stmts</a></li>
- <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.3 salary calculator v2.cpp">Salary calculator v2 - using 1-one selection</a></li>
- <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.4 salary calculator v3.cpp">Salary calculator v3 - using loop stmts</a></li>
- <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.5 number checker v1(a).cpp">Number checker v1(a) - using if else if stmts</a></li>
- <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.5 number checker v1(b).cpp">Number checker v1(b) - using nested if else stmts</a></li>
- <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.5 number checker v1(c).cpp">Number checker v1(c) - using switch stmts</a></li>
- <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.6 number checker v2.cpp">Number checker 2 - using do .. while loop</a></li>
-</ul>
-
-
-
+<ol>
+  <li>Exercise 3.1
+    <ul>
+     <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.1 BMI calculator V2(a).cpp">BMI calculator V2(a) - using Nested if ... else if Stmts</a></li>
+     <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.1 BMI calculator V2(b).cpp">BMI calculator V2(b) - using if ... else if stmts </a></li>
+     <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.2 BMI calculator V3(a).cpp">BMI calculator V3(a) - using for loop stmts</a></li>
+     <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.2 BMI calculator V3(b).cpp">BMI calculator V3(b) - using while loop stmts</a></li>
+    </ul>
+  </li>
+  <li>Exercise 3.2
+    <ul>
+     <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.3 salary calculator v2.cpp">Salary calculator v2 - using one-way selection</a></li>
+     <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.4 salary calculator v3.cpp">Salary calculator v3 - using loop stmts</a></li>
+    </ul>
+  </li>
+    <li>Exercise 3.3
+      <ul>
+       <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.5 number checker v1(a).cpp">Number checker v1(a) - using if ... else if stmts</a></li>
+       <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.5 number checker v1(b).cpp">Number checker v1(b) - using nested if ... else stmts</a></li>
+       <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.5 number checker v1(c).cpp">Number checker v1(c) - using switch stmts</a></li>
+       <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.6 number checker v2.cpp">Number checker 2 - using do .. while loop</a></li>
+      </ul>
+    </li>
+</ol>
 
 <b>MCQ</b>
 <ul>
