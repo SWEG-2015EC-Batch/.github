@@ -42,7 +42,8 @@
   ##### Exercise 3.2
   
   <ul>
-     <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.3 salary calculator v2.cpp">Salary calculator v2 - using one-way selection</a></li>
+     <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.3 salary calculator v2(a).cpp">Salary calculator v2(a) - using one-way selection</a></li>
+     <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.3 salary calculator v2(b).cpp">Salary calculator v2(b) - using multiple selection</a></li>
      <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.4 salary calculator v3.cpp">Salary calculator v3 - using loop stmts</a></li>
 </ul>
   
