@@ -55,6 +55,15 @@
        <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.6 number checker v2.cpp">Number checker 2 - using do .. while loop</a></li>
 </ul>
 
+ ##### Exercise 3.4 (Activity 3.1)
+<ul>
+       <li><a href="#">Simple Arthimetic Calculator</a></li>
+       <li><a href="#">Character Checker </a></li>
+       <li><a href="#">Grade Calculator </a></li>
+       <li><a href="#">Playing with Numbers </a></li>
+       <li><a href="#">Printing Patterns </a></li>
+</ul>
+
 <b>MCQ</b>
 <ul>
   <li><a href="#">Multiple Choice Questions</a></li>
