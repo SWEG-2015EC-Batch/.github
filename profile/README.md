@@ -57,7 +57,7 @@
 
  ##### Exercise 3.4 (Activity 3.1)
 <ul>
-       <li><a href="#">Simple Arthimetic Calculator</a></li>
+       <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.7%20simple%20calculator.cpp">Simple Arthimetic Calculator</a></li>
        <li><a href="#">Character Checker </a></li>
        <li><a href="#">Grade Calculator </a></li>
        <li><a href="#">Playing with Numbers </a></li>
