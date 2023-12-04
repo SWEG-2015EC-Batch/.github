@@ -64,9 +64,9 @@
        <li><a href="#">Printing Patterns </a></li>
 </ul>
 
-<b>MCQ</b>
+<b>Chapter Based Revision MCQs</b>
 <ul>
-  <li><a href="#">Multiple Choice Questions</a></li>
+  <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/MCQs%20-%20Review%20Questions/MCQ%20-%20Flow%20controls.md">Ch 3 - Flow Controls Revision MCQs</a></li>
 </ul>
 
 
