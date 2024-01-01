@@ -69,4 +69,25 @@
   <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/MCQs%20-%20Review%20Questions/MCQ%20-%20Flow%20controls.md">Ch 3 - Flow Controls Revision MCQs</a></li>
 </ul>
 
+### 📖 Chapter-4 Array and Strings
 
+ ##### Activity 4.1: Array and String Initialization
+ <ul>
+      <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-4%20Array%20and%20Strings/4.1%201D%20array%20initalization.cpp">1D Array Initialization</a></li>
+       <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-4%20Array%20and%20Strings/4.2%201D%20string%20initalization.cpp">1D String Initialization</a></li>
+      <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-4%20Array%20and%20Strings/4.3%202D%20array%20initalization.cpp">2D Array Initialization</a></li>
+      <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-4%20Array%20and%20Strings/4.7%202D%20array%20partial%20initialization.cpp">2D Array partial Initialization</a></li>
+      <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-4%20Array%20and%20Strings/4.4%202D%20string%20initalization.cpp">2D String Initialization</a></li>
+ </ul>
+
+ ##### Activity 4.2: Array Elements and String Manipulations
+ <ul>
+      <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-4%20Array%20and%20Strings/4.5%20read_and_print_array_elements.cpp">Reading and Printing Array Elements</a></li>
+      <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-4%20Array%20and%20Strings/4.6%20accessing%201D%20array%20elements.cpp">Accessing 1D Array Elements</a></li>
+      <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-4%20Array%20and%20Strings/4.8%202D%20array%20element%20manipulation.cpp">2D Array Elements Manipulation</a></li>
+      <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-4%20Array%20and%20Strings/4.9%20power%20and%20current%20calculator.cpp">Read Current and Find Power</a></li>
+      <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-4%20Array%20and%20Strings/2.10%20read%20and%20print%20string.cpp">Read Full Name and Print it with Welcome Message</a></li>
+      <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-4%20Array%20and%20Strings/2.11%20print%20string%20in%20lowercase%20and%20uppercase.cpp">Read a line text and Print it in both in lowercase and uppercase</a></li>
+      <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-4%20Array%20and%20Strings/2.12%20print%20longest%20movie%20titles.cpp">Find and Print Longest Movie Title</a></li>
+      <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-4%20Array%20and%20Strings/2.13%20read%20students%20name.cpp">Read List of Name and Print with unix prefix</a></li>
+ </ul>
