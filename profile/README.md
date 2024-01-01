@@ -64,11 +64,6 @@
        <li><a href="#">Printing Patterns </a></li>
 </ul>
 
-<b>Chapter Based Revision MCQs</b>
-<ul>
-  <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/MCQs%20-%20Review%20Questions/MCQ%20-%20Flow%20controls.md">Ch 3 - Flow Controls Revision MCQs</a></li>
-</ul>
-
 ### 📖 Chapter-4 Array and Strings
 
  ##### Activity 4.1: Array and String Initialization
@@ -91,3 +86,8 @@
       <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-4%20Array%20and%20Strings/2.12%20print%20longest%20movie%20titles.cpp">Find and Print Longest Movie Title</a></li>
       <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-4%20Array%20and%20Strings/2.13%20read%20students%20name.cpp">Read List of Name and Print with unix prefix</a></li>
  </ul>
+
+<b>Revision MCQs</b>
+<ul>
+  <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/MCQs%20-%20Review%20Questions/MCQ%20-%20Flow%20controls.md">Ch 3 - Flow Controls Revision MCQs</a></li>
+</ul>
