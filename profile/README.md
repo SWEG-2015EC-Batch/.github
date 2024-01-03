@@ -60,11 +60,12 @@
        <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.7%20simple%20calculator.cpp">Simple Arthimetic Calculator</a></li>
        <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.8%20jumping%20statement%20v1.cpp">Jumping Statement v1 (with while loop) </a></li>
        <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.8%20jumping%20statement%20v2.cpp">Jumping Statement v2 (with while & do..while loop) </a></li>
-
-       <li><a href="#">Character Checker </a></li>
-       <li><a href="#">Grade Calculator </a></li>
-       <li><a href="#">Playing with Numbers </a></li>
-       <li><a href="#">Printing Patterns </a></li>
+      <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.9%20character%20checker%20v1.cpp">Character Checker v1</a></li>
+      <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.9%20character%20checker%20v2.cpp">Character Checker v2</a></li>
+      <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.10%20grade%20calculator%20v1.cpp">Grade Calculator v1 </a></li>
+      <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.10%20grade%20calculator%20v2.cpp">Grade Calculator v2 </a></li>
+      <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.11%20playing%20with%20numbers.cpp">Playing with Numbers </a></li>
+      <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.12%20printing%20patterns.cpp">Printing Patterns </a></li>
 </ul>
 
 ### 📖 Chapter-4 Array and Strings
