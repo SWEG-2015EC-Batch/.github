@@ -85,9 +85,14 @@
       <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-4%20Array%20and%20Strings/2.11%20print%20string%20in%20lowercase%20and%20uppercase.cpp">Read a line text and Print it in both in lowercase and uppercase</a></li>
       <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-4%20Array%20and%20Strings/2.12%20print%20longest%20movie%20titles.cpp">Find and Print Longest Movie Title</a></li>
       <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-4%20Array%20and%20Strings/2.13%20read%20students%20name.cpp">Read List of Name and Print with unix prefix</a></li>
-      <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-4%20Array%20and%20Strings/quiz1-solution.cpp">Quiz-1 Solution</a></li>
-      <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-4%20Array%20and%20Strings/quiz2-solution.cpp">Quiz-1 Solution</a></li>
  </ul>
+
+ ##### Quiz on Array and String
+
+ <ul>
+    <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-4%20Array%20and%20Strings/quiz1-solution.cpp">Quiz-1 Solution</a></li>
+    <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-4%20Array%20and%20Strings/quiz2-solution.cpp">Quiz-1 Solution</a></li>
+ </ul> 
 
 <b>Revision MCQs</b>
 <ul>
