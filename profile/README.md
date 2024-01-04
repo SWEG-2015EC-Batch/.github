@@ -98,7 +98,7 @@
 
  <ul>
     <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-4%20Array%20and%20Strings/quiz1-solution.cpp">Quiz-1 Solution</a></li>
-    <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-4%20Array%20and%20Strings/quiz2-solution.cpp">Quiz-1 Solution</a></li>
+    <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-4%20Array%20and%20Strings/quiz2-solution.cpp">Quiz-2 Solution</a></li>
  </ul> 
 
 <b>Revision MCQs</b>
