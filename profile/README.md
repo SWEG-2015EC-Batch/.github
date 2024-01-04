@@ -62,10 +62,13 @@
        <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.8%20jumping%20statement%20v2.cpp">Jumping Statement v2 (with while & do..while loop) </a></li>
       <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.9%20character%20checker%20v1.cpp">Character Checker v1</a></li>
       <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.9%20character%20checker%20v2.cpp">Character Checker v2</a></li>
-      <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.10%20grade%20calculator%20v1.cpp">Grade Calculator v1 </a></li>
-      <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.10%20grade%20calculator%20v2.cpp">Grade Calculator v2 </a></li>
+      <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.10%20grade%20calculator%20v1.cpp">Grade Calculator v1 - total mark </a></li>
+      <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.10%20grade%20calculator%20v2.cpp">Grade Calculator v2 - multiple assessments </a></li>
+      <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.10%20grade%20calculator%20v2.cpp">Grade Calculator v3 - N students and 3 subjects </a></li>
       <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.11%20playing%20with%20numbers.cpp">Playing with Numbers </a></li>
       <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.12%20printing%20patterns.cpp">Printing Patterns </a></li>
+      <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.13 evn sum and odd product.cpp">Even sum and Odd product Calculator </a></li>
+      <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.14 factorial.cpp">Factorial: using all types of loop </a></li>
 </ul>
 
 ### 📖 Chapter-4 Array and Strings
