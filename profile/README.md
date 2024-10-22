@@ -15,7 +15,7 @@
   <li><a href="#">Exercise 2</a></li>
 </ul>
 
-### 📖 Chapter-2 Basics of Programming Constrcutor
+### 📖 Chapter-2 Basics of Programming Constructor
 <ul>
    <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Basic%20Programming%20Constructors/1%20BMI%20calculator%20V1.cpp">Exercise 2.1 - BMI Calculator V1</a></li>
    <li><a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Basic%20Programming%20Constructors/2%20alphabet%20case%20convertor.cpp">Exercise 2.2 - Alphabet Case Convertor.</a></li>
